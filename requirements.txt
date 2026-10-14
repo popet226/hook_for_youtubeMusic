@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.29
+httpx>=0.27
+
+# для тестов (python -m pytest)
+pytest>=8.0
+
+# только для скриптов в research/
+requests>=2.31
